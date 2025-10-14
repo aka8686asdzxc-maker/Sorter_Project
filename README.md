@@ -11,6 +11,7 @@ Arduino MEGA + HuskyLens QR Sorting Project
 
 | 구분 | 설명 | 링크 |
 |------|------|------|
+|
 | 🎯 Tilt + QR 코드 | 서보 모터로 QR을 스캔하고, 인식된 ID(1~3)에 따라 동작 제어 | [열기](./tilt_qr/tilt_qr.ino) |
 | ⚙️ Conveyor Only | QR 없이 강제로 분류 ID를 설정하여 테스트 | [열기](./conveyor_only/conveyor_only.ino) |
 
