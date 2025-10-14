@@ -20,7 +20,7 @@ Arduino MEGA + HuskyLens QR Sorting Project
 - **보드:** Arduino MEGA 2560  
 - **비전 센서:** HuskyLens (QR 인식)  
 - **구동 장치:** 컨베이어 벨트 2개 + 리니어 액추에이터 2개 + 서보 모터 1개  
-- **전원:** 24V SMPS (Belt/Linear) / 5V (서보, HuskyLens)
+- **전원:** 24V SMPS (Belt/Linear) 
 
 ---
 
