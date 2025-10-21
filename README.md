@@ -43,7 +43,7 @@ Arduino MEGA + HuskyLens Pro 기반 QR 인식 분류 시스템
 모든 부품은 **SolidWorks 2023** 버전으로 제작되었으며,  
 일부 주요 부품은 **3D 프린터를 활용해 실제 출력**되었습니다.  
 
-📦 [Sorter_Frame_v1.zip 다운로드 (Google Drive)](https://drive.google.com/file/d/16qrcr41eieWnhJ2iXqQJ7fa6UanfB9HN/view?usp=drive_link)
+📦 [Sorter_Frame_v1.zip 다운로드 (Google Drive)](https://drive.google.com/file/d/16qrcr41eieWnhJ2iXqQJ7fa6UanfB9HN/view?usp=sharing)
 
 ---
 
