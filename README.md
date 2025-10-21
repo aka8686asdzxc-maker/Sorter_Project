@@ -36,13 +36,14 @@ Arduino MEGA + HuskyLens Pro 기반 QR 인식 분류 시스템
 ---
 
 ## 🧱 모델링 파일 (SolidWorks)
-[model 폴더 바로가기](./model)
+
+📂 [모델 폴더 보기](./model)
 
 폴더에는 전체 설계 모델링 파일이 **압축 형태로 포함**되어 있습니다.  
 모든 부품은 **SolidWorks 2023** 버전으로 제작되었으며,  
-일부 주요 부품은 **3D 프린터를 활용해 실제 출력**되었습니다.
+일부 주요 부품은 **3D 프린터를 활용해 실제 출력**되었습니다.  
 
-📦 [Sorter_Frame_v1.zip 다운로드](./model/Sorter_Frame_v1.zip)
+📦 [Sorter_Frame_v1.zip 다운로드 (Google Drive)](https://drive.google.com/file/d/16qrcr41eieWnhJ2iXqQJ7fa6UanfB9HN/view?usp=drive_link)
 
 ---
 
