@@ -37,13 +37,6 @@ Arduino MEGA + HuskyLens Pro 기반 QR 인식 분류 시스템
 
 ## 🖥️ 모델링 파일 (SolidWorks)
 
-| 구분 | 파일명 | 설명 | 다운로드 |
-|------|--------|------|-----------|
-| 🧱 프레임 | sorter_frame.SLDASM | 전체 구조 어셈블리 | [📥 Download](./model/Sorter_Frame.SLDASM) |
-| 🚚 컨베이어 | conveyor_module.SLDPRT | 컨베이어 단일 모듈 설계 | [📥 Download](./model/Conveyor_Module.SLDPRT) |
-| 🔩 리니어 | linear_actuator.SLDPRT | 리니어 액추에이터 마운트 구조 | [📥 Download](./model/Linear_Actuator.SLDPRT) |
-| ⚙️ 브라켓 | sensor_bracket.SLDPRT | 센서 고정 브라켓 | [📥 Download](./model/Sensor_Bracket.SLDPRT) |
-
 > 📎 `model/` 폴더에 전체 모델링 파일이 포함되어 있습니다.  
 > 주요 부품은 3D 프린터로 제작되었으며, **SolidWorks 2023** 버전으로 열 수 있습니다.
 
