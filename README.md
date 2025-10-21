@@ -1,10 +1,10 @@
 # 🧠 Sorter_Project  
-Arduino MEGA + HuskyLens 기반 QR 인식 분류 시스템
+Arduino MEGA + HuskyLens Pro 기반 QR 인식 분류 시스템
 
 ---
 
 ## 📌 프로젝트 개요
-본 프로젝트는 HuskyLens AI 카메라와 서보 모터, 컨베이어 시스템을 이용하여  
+본 프로젝트는 HuskyLens Pro AI 카메라와 서보 모터, 컨베이어 시스템을 이용하여  
 제품의 QR 코드 인식 및 자동 분류를 수행하는 소형 물류 자동화 모델입니다.  
 주요 기능은 다음과 같습니다.
 
@@ -18,7 +18,7 @@ Arduino MEGA + HuskyLens 기반 QR 인식 분류 시스템
 | 구분 | 부품명 | 설명 |
 |------|--------|------|
 | 🧩 마이크로컨트롤러 | Arduino MEGA 2560 | 전체 시스템 제어 |
-| 👁️ 비전 센서 | HuskyLens | QR 코드 인식 |
+| 👁️ 비전 센서 | HuskyLens Pro | QR 코드 인식 |
 | 🔄 서보 모터 | SG90 / MG996R | 카메라 상하 각도 제어 (틸트 기능) |
 | 🚚 컨베이어 | DC 모터 + 드라이버 | 제품 이송 |
 | 🔋 전원 | SMPS 12V / 24V | 시스템 전원 공급 |
